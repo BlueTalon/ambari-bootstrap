@@ -18,7 +18,7 @@ ambari_server=${ambari_server:-localhost}
 ambari_password=${ambari_password:-admin}
 ambari_protocol=${ambari_protocol:-http}
 ambari_port=${ambari_port:-8080}
-cluster_name=${cluster_name:-hdp}
+cluster_name=${cluster_name:-BT-TESTHDP}
 ambari_blueprint_name="${ambari_blueprint_name:-recommended}"
 deploy=${deploy:-true}
 
